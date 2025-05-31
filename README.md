@@ -98,14 +98,6 @@ git push origin main
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 *Web Interface*
-![Web App Screenshot](https://your-screenshot-link.com/web-interface.png)
-
-### 🔹 *QR Code Verification*
-![QR Code Verification](https://your-screenshot-link.com/qr-code-verification.png)
-
 ---
 
 ## 🏆 Future Enhancements  
